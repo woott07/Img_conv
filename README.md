@@ -236,7 +236,7 @@ Size: 492 KB
 
 # 📄 License
 
-MIT License
+Feel Free to modify on your need :)
 
 ---
 
